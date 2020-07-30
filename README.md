@@ -16,6 +16,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Littlehhh&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=Littlehhh&show_icons=true&hide_border=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=Littlehhh&show_icons=true&hide_border=true&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Littlehhh&count_private=true)
+
+
+<a>
+  <img align="left" width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=Littlehhh&show_icons=true&hide_border=true&count_private=true" />
+  <img align="right" width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Littlehhh&count_private=true" />
+</a>
